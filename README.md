@@ -44,8 +44,6 @@ Mahmoud Abid, a student at ESPRIT, aspiring to be a full stack developer. Passio
 
 <a href="http://www.github.com/AbidMahmoudUp"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AbidMahmoudUp&stroke=ffffff&background=171717&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/AbidMahmoudUp"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=AbidMahmoudUp&bg_color=171717&color=ffffff&line=6366f1&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/AbidMahmoudUp" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbidMahmoudUp&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
